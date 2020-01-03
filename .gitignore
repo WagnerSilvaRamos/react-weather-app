@@ -23,5 +23,5 @@ yarn-debug.log*
 package-lock.json
 yarn-error.log*
 yarn.lock
-.txt
+k.txt
 .idea
