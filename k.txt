@@ -1,0 +1,5 @@
+Google Key
+https://maps.googleapis.com/maps/api/js?key=AIzaSyBKpgwDoX0xhnfbuvHqUZjXt-h_zZ6Wj4o&amp;libraries=places
+
+OPenWeather Key
+6ac694b180cef79926ba833102ab82a1
